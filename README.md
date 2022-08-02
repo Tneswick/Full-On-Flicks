@@ -38,7 +38,7 @@ THEN the page has a responsive design that fits the screen sizes well<br/>
 - [Bulma](https://bulma.io/documentation/)
 
 ## 🔗 Link to Site
-[Full on Flicks](https://dn691997.github.io/Full-On-Flicks/)
+[Full on Flicks](https://tneswick.github.io/Full-On-Flicks/)
 
 ## 📸 Screenshot
 ![Screenshot of Site](./assets/images/screenshot.png)
